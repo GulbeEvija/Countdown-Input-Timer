@@ -6,10 +6,10 @@
     <img src="timerLogo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Countdown Timert</h3>
+<h3 align="center">Countdown Timer</h3>
 
   <p align="center">
-    App built with React using.
+    App built with React using props and class components.
     <br />
     <br />
     <a href="https://majestic-bunny-dabaeb.netlify.app/">View project live on Netlify</a>
@@ -38,7 +38,14 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: 
+* This app allows users to input minutes and start countdown timer.
+* For this project I used various technologies:
+  * Props to pass information from one component to other
+  * bind() and this 
+  * setState
+  * Math.floor()
+* 
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
