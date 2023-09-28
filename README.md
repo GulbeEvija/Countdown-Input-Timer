@@ -44,10 +44,10 @@
   * bind() and this 
   * setState
   * Math.floor()
-* 
-* 
+* In the future I hope to add sections for hours and seconds countdown!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 
@@ -55,19 +55,18 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## Getting Started
 
-`npm start`
+Write in the terminal `npm start` \
+This command runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+The page will reload when you make changes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -83,7 +82,7 @@ If you have any suggestions that would make this project better, please send me 
 
 ## Contact
 
-Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) - evija.gulbe@outlook.com
+Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) 
 
 Project Link: [https://github.com/GulbeEvija/Countdown-Input-Timer/](https://github.com/GulbeEvija/Countdown-Input-Timer/)
 
